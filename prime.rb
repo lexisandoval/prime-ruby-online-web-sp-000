@@ -8,5 +8,6 @@ def prime(number)
     if number % i == 0
       i += 1
       return false
-
+    end
+  end
 end
