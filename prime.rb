@@ -11,4 +11,5 @@ def prime(number)
       return false
     end
   end
+  return true
 end
